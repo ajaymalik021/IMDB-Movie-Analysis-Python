@@ -1,6 +1,6 @@
 # IMDB Movie Analysis
 
-This repository contains the Week 15 project for WsCube Tech's Data Analytics Program. The goal of this project is to explore and analyze the IMDB Movies dataset to answer business questions, identify trends, and provide actionable insights to IMDB. Using Python and libraries such as Pandas, NumPy, Matplotlib, and Seaborn, the analysis focuses on genre popularity, rating trends, and factors influencing movie success.
+This repository contains the Week 14 project for WsCube Tech's Data Analytics Program. The goal of this project is to explore and analyze the IMDB Movies dataset to answer business questions, identify trends, and provide actionable insights to IMDB. Using Python and libraries such as Pandas, NumPy, Matplotlib, and Seaborn, the analysis focuses on genre popularity, rating trends, and factors influencing movie success.
 
 ## Dataset
 
